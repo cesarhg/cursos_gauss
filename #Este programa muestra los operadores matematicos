@@ -1,0 +1,11 @@
+#Este programa muestra los operadores matematicos
+valor1 = 7
+valor2 = 2.5
+print "la suma es"
+suma = valor1 + valor2
+print "la resta es"
+resta = valor1 - valor2
+print "la multiplicacion es"
+multiplicacion = valor1 * valor2
+print "la division es "
+division = valor1 / valor2
